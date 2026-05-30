@@ -5,19 +5,12 @@ Here's a more thorough set of instructions you can place in your README.md for p
 
 ## Downloading the Project
 
-### Option 1: Download ZIP (Recommended)
+### Option 1: Download ZIP
 
 1. Open the GitHub repository.
 2. Click the green **Code** button.
 3. Select **Download ZIP**.
 4. Extract the ZIP file to a folder on your computer.
-
-### Option 2: Clone with Git
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Essentia.git
-cd Essentia
-```
 
 ---
 
@@ -30,7 +23,7 @@ Essentia/
 ├── buildozer.spec
 ├── main.py
 ├── ui_assets/
-├── font/
+├── gotham_rounded/
 ├── essentia_data.db
 ├── essentia_data.json
 └── README.md
@@ -144,11 +137,11 @@ bin/essentia-0.1-arm64-v8a-debug.apk
 
 # Installing the APK on Android
 
-1. Transfer the APK to your Android device.
+1. Transfer the APK to your Android device. 
 2. Open the APK file.
 3. Allow installation from unknown sources if prompted.
 4. Tap **Install**.
-5. Launch Essentia from your app drawer.
+5. Find the app on your home screen and launch Essentia.
 
 ---
 
@@ -195,8 +188,6 @@ buildozer android debug
 The repository intentionally excludes:
 
 ```text
-.buildozer/
-bin/
 __pycache__/
 ```
 
