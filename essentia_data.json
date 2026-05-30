@@ -1,0 +1,36 @@
+{
+  "registered": true,
+  "profile": {
+    "display_name": "reeza",
+    "birthday": "08/09/07",
+    "gender": "Female",
+    "account_detail": ""
+  },
+  "shopping_data": {
+    "budget": 1000.0,
+    "budget_text": "1000",
+    "items": [
+      {
+        "id": "05e4770523d644d5b0065c5882a3f07b",
+        "name": "tomato",
+        "category": "essential",
+        "checked": true,
+        "price_text": "500.00"
+      },
+      {
+        "id": "1289dddab51c47c690dd7df3457c4e3f",
+        "name": "celery",
+        "category": "essential",
+        "checked": true,
+        "price_text": "400.00"
+      },
+      {
+        "id": "205aad9c87764324a8680bdc1b225ee3",
+        "name": "games",
+        "category": "optional",
+        "checked": true,
+        "price_text": "120.00"
+      }
+    ]
+  }
+}
