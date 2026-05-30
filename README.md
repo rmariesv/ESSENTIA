@@ -3,10 +3,6 @@ grocery prioritization application that seperates essential and optional items f
 
 Here's a more thorough set of instructions you can place in your README.md for people who want to build and run the app from your GitHub repository:
 
-# Essentia
-
-Essentia is an Android application built using Python, Kivy, and Buildozer.
-
 ## Downloading the Project
 
 ### Option 1: Download ZIP (Recommended)
